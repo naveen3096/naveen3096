@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen3096&label=Profile%20views&color=0e75b6&style=flat" alt="naveen3096" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics, Python, SQL, Power BI, Excel, Statistics**
+- 🌱 Learning and Leveraging **Data Analytics, Python, SQL, Power BI, Excel, Statistics**
 
 - 👨‍💻 All of my projects are available at [https://naveen3096.github.io/NaveenKumar.github.io/](https://naveen3096.github.io/NaveenKumar.github.io/)
 
