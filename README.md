@@ -1,6 +1,6 @@
 [![MasterHead](https://drive.google.com/file/d/1Qf-OKQ5c_Fj4x8MV_w71TTGkWAiz6tyB/view?usp=sharing)](https://naveen3096.io)
 <h1 align="center">Hey there 👋,I'm Naveen Kumar</h1>
-<h3 align="center">A passionate and aspiring Data Enthusiast from India</h3>
+<h3 align="center">Aspiring Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen3096&label=Profile%20views&color=0e75b6&style=flat" alt="naveen3096" /> </p>
