@@ -1,6 +1,6 @@
-[![MasterHead](https://github.com/naveen3096/naveen3096/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.gif)](https://naveen3096.io)
+![Black and Red Gradient Professional LinkedIn Banner](https://user-images.githubusercontent.com/116958208/233382163-4d15271f-c8d7-4db0-af94-05c664f10990.jpg)
 <h1 align="center">Hey there 👋,I'm Naveen</h1>
-<h3 align="center">Aspiring Data Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen3096&label=Profile%20views&color=0e75b6&style=flat" alt="naveen3096" /> </p>
