@@ -1,5 +1,5 @@
 [![MasterHead](https://drive.google.com/file/d/1Qf-OKQ5c_Fj4x8MV_w71TTGkWAiz6tyB/view?usp=sharing)](https://naveen3096.io)
-<h1 align="center">Hey there 👋,I'm Naveen Kumar</h1>
+<h1 align="center">Hey there 👋,I'm Naveen</h1>
 <h3 align="center">Aspiring Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
 
