@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Qf-OKQ5c_Fj4x8MV_w71TTGkWAiz6tyB/view?usp=sharing)](https://naveen3096.io)
+[![MasterHead](https://github.com/naveen3096/naveen3096/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.gif)](https://naveen3096.io)
 <h1 align="center">Hey there 👋,I'm Naveen</h1>
 <h3 align="center">Aspiring Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif">
